@@ -8,13 +8,7 @@
 [![Build Status](https://travis-ci.org/username/repo.svg?branch=master)](https://travis-ci.org/username/repo)
 [![Coverage Status](https://coveralls.io/repos/github/username/repo/badge.svg?branch=master)](https://coveralls.io/github/username/repo?branch=master)
 
-<!-- Badges lainnya (Opsional) -->
 
-<!-- Deskripsi Proyek -->
-
-Deskripsi singkat tentang proyek Anda di sini.
-
-<!-- Daftar Isi -->
 
 - [Fitur](#Express-api)
 - [Persyaratan Sistem](#harus mempunyai node.js)
