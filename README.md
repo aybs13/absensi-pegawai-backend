@@ -29,15 +29,17 @@
 
 ## Persyaratan Sistem
 
-- Persyaratan sistem yang diperlukan oleh proyek (misalnya, Node.js, paket lainnya, browser yang kompatibel, dll.)
+- node.js
 
 <!-- Instalasi -->
 
 ## Instalasi
 
-Langkah-langkah untuk menginstal proyek di komputer lokal:
+- bcrypt
+- cors
+- express
+- mysql2
+- sequelize
 
-```shell
-$ git clone https://github.com/username/repo.git
-$ cd repo
-$ npm install
+<!-- How to Run -->
+npm run api
