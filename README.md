@@ -41,5 +41,5 @@
 - mysql2
 - sequelize
 
-<!-- How to Run -->
+## Cara menjalankan sistem
 npm run api
