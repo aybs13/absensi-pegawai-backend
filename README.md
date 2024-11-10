@@ -1,45 +1,49 @@
-# backend absensi pegawai
 
-<!-- Backend absensi ppegawai -->
+# Employee Attendance Backend
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 [![NPM Version](https://img.shields.io/npm/v/package-name.svg)](https://www.npmjs.com/package/package-name)
 [![Build Status](https://travis-ci.org/username/repo.svg?branch=master)](https://travis-ci.org/username/repo)
 [![Coverage Status](https://coveralls.io/repos/github/username/repo/badge.svg?branch=master)](https://coveralls.io/github/username/repo?branch=master)
 
+## Table of Contents
+- [Features](#features)
+- [System Requirements](#system-requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-
-- [Fitur](#Express-api)
-- [Persyaratan Sistem](#harus mempunyai node.js)
-- [Instalasi](#npm install, bcrypt,cors,express,mysql2,sequelize)
-- [Cara Penggunaan](#open power shell and then use npm install, after that use npm run api)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
-
-<!-- Fitur -->
-
-## Fitur
+## Features
 
 - GET
 - POST
 - PUT
 
-<!-- Persyaratan Sistem -->
+## System Requirements
 
-## Persyaratan Sistem
+- Node.js
 
-- node.js
+## Installation
 
-<!-- Instalasi -->
+To install the required packages, run:
 
-## Instalasi
+```bash
+npm install bcrypt cors express mysql2 sequelize
+```
 
-- bcrypt
-- cors
-- express
-- mysql2
-- sequelize
+## Usage
 
-## Cara menjalankan sistem
+To run the system, use the following command:
+
+```bash
 npm run api
+```
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
